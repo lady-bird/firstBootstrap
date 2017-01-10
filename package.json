@@ -1,0 +1,23 @@
+{
+  "name": "first_bootstrap",
+  "version": "1.0.0",
+  "description": "My first bootstrap project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lady-bird/firstBootstrap.git"
+  },
+  "keywords": [
+    "masterGeotech",
+    "javascript"
+  ],
+  "author": "Yevgeniya Litvinova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lady-bird/firstBootstrap/issues"
+  },
+  "homepage": "https://github.com/lady-bird/firstBootstrap#readme"
+}

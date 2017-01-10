@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/lady-bird/firstBootstrap/issues"
   },
-  "homepage": "https://github.com/lady-bird/firstBootstrap#readme"
+  "homepage": "https://github.com/lady-bird/firstBootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
 }
